@@ -1,0 +1,6 @@
+c:\users\mary winkelman\documents\visual studio 2015\Projects\ProjectDay_MeetingMinutesProgram\ProjectDay_MeetingMinutesProgram\bin\Debug\ProjectDay_MeetingMinutesProgram.exe.config
+c:\users\mary winkelman\documents\visual studio 2015\Projects\ProjectDay_MeetingMinutesProgram\ProjectDay_MeetingMinutesProgram\obj\Debug\ProjectDay_MeetingMinutesProgram.csprojResolveAssemblyReference.cache
+c:\users\mary winkelman\documents\visual studio 2015\Projects\ProjectDay_MeetingMinutesProgram\ProjectDay_MeetingMinutesProgram\bin\Debug\ProjectDay_MeetingMinutesProgram.exe
+c:\users\mary winkelman\documents\visual studio 2015\Projects\ProjectDay_MeetingMinutesProgram\ProjectDay_MeetingMinutesProgram\bin\Debug\ProjectDay_MeetingMinutesProgram.pdb
+c:\users\mary winkelman\documents\visual studio 2015\Projects\ProjectDay_MeetingMinutesProgram\ProjectDay_MeetingMinutesProgram\obj\Debug\ProjectDay_MeetingMinutesProgram.exe
+c:\users\mary winkelman\documents\visual studio 2015\Projects\ProjectDay_MeetingMinutesProgram\ProjectDay_MeetingMinutesProgram\obj\Debug\ProjectDay_MeetingMinutesProgram.pdb
